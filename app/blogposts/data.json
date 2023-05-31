@@ -1,0 +1,43 @@
+{
+    "paramount":[  {
+        "it": 1,
+        "title": "TECHNOLOGY",
+        "desc": "Architectural Engineering Wonders of the modern era for your Inspiration",
+        "author":"Mario Sanchez",
+        "date":"October 21, 2022",
+        "img":"/Media/pic1.avif"
+    },
+    {
+        "it": 2,
+        "title": "LIFESTYLE",
+        "desc": "5 Effective Brain Recharging Activities No One is Talking About",
+        "author":"Joshua Wood",
+        "date":"October 21, 2022",
+        "img":"/Media/pic2.avif"
+    }],
+    "rest":[
+        {
+            "it": 3,
+            "title": "DESIGN LIFESTYLE",
+            "desc": "14 Architectural Design Ideas for a Spacious Interior",
+            "author":"Mario Sanchez",
+            "date":"October 21, 2022",
+            "img":"/Media/pic3.avif"
+        },
+        {
+            "it": 4,
+            "title": "LIFESTYLE PERSONAL_GROWTH",
+            "desc": "Every Next Level of Your Life Will Demand a Different You",
+            "author":"Mario Sanchez",
+            "date":"October 21, 2022",
+            "img":"/Media/pic4.avif"
+        },
+        {
+            "it": 5,
+            "title": "TRAVEL",
+            "desc": "This Bread Pudding Will Give You All the Fall Feels",
+            "author":"Erika Oliver",
+            "date":"October 21, 2022",
+            "img":"/Media/pic5.avif"
+        }]
+}
